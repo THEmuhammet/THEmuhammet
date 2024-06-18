@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @THEmuhammet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-THEmuhammet/THEmuhammet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Selamın aleyküm kardeş
+koda girmek için
+pkg install python
+cd THEmuhammet
+python 'Yapay zeka.py' (bunuda koyun ' )
+iyi eğlenceler.. 🖐️
+YouTube: Aplex_crt_yt
+Yapay zekayı yapan: ImuhammetIhackI / ImuhammetI / MUHAMMET_PRO / MUHAMMET_Warning gibi 4 isim kullaniyorum. 😁
