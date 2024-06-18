@@ -1,3 +1,8 @@
+Telefon kullanıyorsan: Termux indir
+
+Bilgisayar kullanıyorsan: Cloud shell Terminal bak
+
+
 Selamın aleyküm kardeş
 
 koda girmek için 👇
